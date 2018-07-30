@@ -12,12 +12,12 @@
 
 <tr>
 <td>Username:</td>
-<td><input type="text" color="white" size=25 name="userid"></td>
+<td><input type="text" color="White" size=25 name="userid"></td>
 </tr>
 
 <tr>
 <td>Password:</td>
-<td><input type="Password" color="white" size=25 name="pwd"></td>
+<td><input type="Password" color="White" size=25 name="pwd"></td>
 </tr>
 
 <tr>
