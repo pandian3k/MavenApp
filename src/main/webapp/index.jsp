@@ -3,11 +3,11 @@
 <title>Login Page</title>
 </head>
 <body>
-<form name="loginForm" method="post" action="login.php">
-<table width="20%" bgcolor="0099CC" align="center">
+<form name="loginForm" method="post" action="https://www.royalcyber.com/">
+<table width="20%" bgcolor="000080" align="center">
 
 <tr>
-<td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
+<td colspan=2><center><font size=4><b>Royal Cyber Login Page</b></font></center></td>
 </tr>
 
 <tr>
@@ -31,7 +31,7 @@
 function check(form)
 {
 
-if(form.userid.value == "Roseindia" && form.pwd.value == "Roseindia")
+if(form.userid.value == "RoyalCyber" && form.pwd.value == "Cyber123!")
 {
 	return true;
 }
