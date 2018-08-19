@@ -3,11 +3,11 @@
 <title>Login Page</title>
 </head>
 <body>
-<form name="loginForm" method="post" action="https://www.royalcyber.com/">
-<table width="20%" bgcolor="000080" align="center">
+<form name="loginForm" method="post" action="https://github.com/pandian3k/">
+<table width="20%" bgcolor="808000" align="center">
 
 <tr>
-<td colspan=2><center><font size=4><b>Royal Cyber Login Page</b></font></center></td>
+<td colspan=2><center><font size=4><b>Devops Training Web Page</b></font></center></td>
 </tr>
 
 <tr>
@@ -31,7 +31,7 @@
 function check(form)
 {
 
-if(form.userid.value == "RoyalCyber" && form.pwd.value == "Cyber123!")
+if(form.userid.value == "pandian" && form.pwd.value == "devops@123")
 {
 	return true;
 }
